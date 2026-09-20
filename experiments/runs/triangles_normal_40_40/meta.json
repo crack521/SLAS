@@ -1,0 +1,18 @@
+{
+  "lattice": "triangles",
+  "weight": "normal",
+  "size": [
+    40,
+    40
+  ],
+  "num_graphs": 50,
+  "num_steps": 500,
+  "pop_size": 20,
+  "mc_steps_per_train": 10,
+  "mean_E": 0.6512,
+  "sem_E": 0.0019,
+  "mean_ratio_gurobi": 1.0,
+  "sem_ratio_gurobi": 0.0,
+  "mean_ratio_sa": 1.02040822,
+  "sem_ratio_sa": 0.0029772316348299142
+}

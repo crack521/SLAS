@@ -1,0 +1,18 @@
+{
+  "lattice": "triangles",
+  "weight": "bimodal",
+  "size": [
+    40,
+    40
+  ],
+  "num_graphs": 50,
+  "num_steps": 500,
+  "pop_size": 20,
+  "mc_steps_per_train": 10,
+  "mean_E": 0.721,
+  "sem_E": 0.0008,
+  "mean_ratio_gurobi": 1.0,
+  "sem_ratio_gurobi": 0.0,
+  "mean_ratio_sa": 1.02040814,
+  "sem_ratio_sa": 0.0011322049333967778
+}

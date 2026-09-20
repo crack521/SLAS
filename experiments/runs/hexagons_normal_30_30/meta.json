@@ -1,0 +1,18 @@
+{
+  "lattice": "hexagons",
+  "weight": "normal",
+  "size": [
+    30,
+    30
+  ],
+  "num_graphs": 50,
+  "num_steps": 500,
+  "pop_size": 20,
+  "mc_steps_per_train": 10,
+  "mean_E": 0.7915,
+  "sem_E": 0.0035,
+  "mean_ratio_gurobi": 1.0,
+  "sem_ratio_gurobi": 0.0,
+  "mean_ratio_sa": 1.0204082,
+  "sem_ratio_sa": 0.004512233404601316
+}

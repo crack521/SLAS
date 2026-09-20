@@ -1,0 +1,18 @@
+{
+  "lattice": "squares",
+  "weight": "bimodal",
+  "size": [
+    50,
+    50
+  ],
+  "num_graphs": 50,
+  "num_steps": 500,
+  "pop_size": 20,
+  "mc_steps_per_train": 10,
+  "mean_E": 0.9315,
+  "sem_E": 0.0007,
+  "mean_ratio_gurobi": 1.0,
+  "sem_ratio_gurobi": 0.0,
+  "mean_ratio_sa": 1.0204081600000001,
+  "sem_ratio_sa": 0.0007668182347127627
+}

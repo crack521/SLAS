@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints and large binaries
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.h5
+
+# Caches and virtual environments
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output directories
+outputs/
+temp/
+tmp/
+
+# LaTeX source files and build artifacts
+*.tex
+*.bib
+*.sty
+*.cls
+*.dtx
+*.ins
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo

@@ -1,0 +1,48 @@
+{
+  "lattice": "hexagons",
+  "weight": "bimodal",
+  "size": [
+    4,
+    4
+  ],
+  "num_graphs": 50,
+  "num_steps": 500,
+  "pop_size": 20,
+  "mc_steps_per_train": 10,
+  "mean_E": 1.0,
+  "sem_E": 0.0,
+  "mean_ratio_gurobi": 1.0,
+  "sem_ratio_gurobi": 0.0,
+  "mean_ratio_sa": 1.0,
+  "sem_ratio_sa": 0.0,
+  "xlsx_baselines": {
+    "Greedy": [
+      0.775,
+      0.0829156197588849
+    ],
+    "Gurobi": [
+      1.0,
+      0.0
+    ],
+    "PT_250": [
+      1.0,
+      0.0
+    ],
+    "PT_1000": [
+      1.0,
+      0.0
+    ],
+    "PT_3000": [
+      1.0,
+      0.0
+    ],
+    "SA": [
+      1.0,
+      0.0
+    ],
+    "HypOp": [
+      0.8825,
+      0.06329494450586083
+    ]
+  }
+}
